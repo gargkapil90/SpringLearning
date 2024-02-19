@@ -1,4 +1,4 @@
-package emaple.a0;
+package example.a0;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
